@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Esse template foi feito por Marcus Gonçalves
+https://www.linkedin.com/in/marcusgonca1/
+Com intuito de geração de portifólio
